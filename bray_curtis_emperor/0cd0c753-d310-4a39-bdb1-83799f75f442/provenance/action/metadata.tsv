@@ -1,0 +1,241 @@
+#SampleID	SL_conc	stdev_SL	color	2_stdev_SL	stdev_SL_conc	SL_Ranking	bin_even	SL_rankconc	Comment	Delivery	Week_amnio	Maternal_age	Race	parity	hx_PTD	Reason	type_PTD	Notes
+#q2:types	numeric	categorical	categorical	categorical	categorical	numeric	categorical	categorical	categorical	categorical	numeric	numeric	categorical	categorical	categorical	categorical	categorical	categorical
+KitNeg1	0	0	black	0	0	0	0	0	0	KitNeg	0	0	KitNeg	KitNeg	KitNeg	KitNeg	KitNeg	KitNeg
+KitNeg2	0	0	black	0	0	0	0	0	0	KitNeg	0	0	KitNeg	KitNeg	KitNeg	KitNeg	KitNeg	KitNeg
+KitNeg3	0	0	black	0	0	0	0	0	0	KitNeg	0	0	KitNeg	KitNeg	KitNeg	KitNeg	KitNeg	KitNeg
+KitNeg4	0	0	black	0	0	0	0	0	0	KitNeg	0	0	KitNeg	KitNeg	KitNeg	KitNeg	KitNeg	KitNeg
+KitNeg5	0	0	black	0	0	0	0	0	0	KitNeg	0	0	KitNeg	KitNeg	KitNeg	KitNeg	KitNeg	KitNeg
+KitNeg6	0	0	black	0	0	0	0	0	0	KitNeg	0	0	KitNeg	KitNeg	KitNeg	KitNeg	KitNeg	KitNeg
+KitNeg7	0	0	black	0	0	0	0	0	0	KitNeg	0	0	KitNeg	KitNeg	KitNeg	KitNeg	KitNeg	KitNeg
+KitNeg8	0	0	black	0	0	0	0	0	0	KitNeg	0	0	KitNeg	KitNeg	KitNeg	KitNeg	KitNeg	KitNeg
+100	156.3	1	blue	1	51.4-171	48	1	51.4-278.23	None	Fullterm	16	39	Asian	parous	no_hx_PTD	AMA	N/A	None
+210	174.7	1	blue	1	51.4-171	82	1	51.4-278.23	None	Fullterm	22	23	Black	parous	no_hx_PTD	pos matern serum test	N/A	None
+462	125.1	1	blue	1	51.4-171	170	1	51.4-278.23	None	Fullterm	16	40	Asian	parous	no_hx_PTD	AMA	N/A	None
+519	145.4	1	blue	1	51.4-171	198	1	51.4-278.23	None	Fullterm	15	34	Hispanic	parous	no_hx_PTD	AMA	N/A	None
+601	51.4	1	blue	1	51.4-171	221	1	51.4-278.23	None	Preterm	21	27	Black	parous	no_hx_PTD	pos matern serum test	spontaneous	36w
+625	127.8	1	blue	1	51.4-171	225	1	51.4-278.23	None	Fullterm	19	33	Black	parous	no_hx_PTD	abnormal ultrasound findings	N/A	echo card foc
+632	112.6	1	blue	1	51.4-171	227	1	51.4-278.23	None	Fullterm	17	28	Black	parous	no_hx_PTD	pos matern serum test	N/A	None
+3	441.1	2	darkgreen	1	171-453	2	2	278.23-424.59	None	Fullterm	16	36	Asian	parous	no_hx_PTD	AMA	N/A	None
+8	394	2	darkgreen	1	171-453	3	2	278.23-424.59	None	Fullterm	16	35	Asian	parous	no_hx_PTD	AMA	N/A	None
+13	384.5	2	darkgreen	1	171-453	5	1	51.4-278.23	None	Fullterm	16	37	Asian	parous	no_hx_PTD	AMA	N/A	None
+27	351.5	2	darkgreen	1	171-453	9	1	51.4-278.23	None	Fullterm	17	24	White	nulliparous	no_hx_PTD	pos matern serum test	N/A	None
+31	396	2	darkgreen	1	171-453	12	2	278.23-424.59	None	Fullterm	16	32	Asian	parous	no_hx_PTD	pos matern serum test	N/A	None
+40	308	2	darkgreen	1	171-453	16	1	51.4-278.23	None	Fullterm	17	39	White	parous	no_hx_PTD	both AMA and pos matern serum test	N/A	None
+42	445.3	2	darkgreen	1	171-453	18	2	278.23-424.59	None	Fullterm	19	34	White	parous	no_hx_PTD	pos matern serum test	N/A	None
+44	448	2	darkgreen	1	171-453	19	2	278.23-424.59	None	Fullterm	16	36	White	parous	hx_PTD	both AMA and pos matern serum test	N/A	None
+45	389.3	2	darkgreen	1	171-453	20	2	278.23-424.59	None	Fullterm	20	41	Black	parous	no_hx_PTD	AMA	N/A	None
+54	423.9	2	darkgreen	1	171-453	25	2	278.23-424.59	None	Preterm	16	34	Asian	parous	hx_PTD	AMA	spontaneous	34w
+79	428.7	2	darkgreen	1	171-453	34	2	278.23-424.59	None	Fullterm	19	35	Asian	nulliparous	no_hx_PTD	AMA	N/A	None
+103	284.3	2	darkgreen	1	171-453	49	1	51.4-278.23	None	Fullterm	17	34	White	parous	no_hx_PTD	both AMA and pos matern serum test	N/A	None
+105	448.6	2	darkgreen	1	171-453	50	2	278.23-424.59	None	Fullterm	15	36	Asian	nulliparous	no_hx_PTD	AMA	N/A	None
+108	275.6	2	darkgreen	1	171-453	52	1	51.4-278.23	None	Fullterm	18	26	White	nulliparous	no_hx_PTD	pos matern serum test	N/A	None
+109	414.7	2	darkgreen	1	171-453	53	2	278.23-424.59	None	Fullterm	17	36	Black	parous	hx_PTD	AMA	N/A	None
+117	436.2	2	darkgreen	1	171-453	58	2	278.23-424.59	None	Preterm	20	21	Black	parous	no_hx_PTD	pos matern serum test	spontaneous	34w
+120	350.2	2	darkgreen	1	171-453	61	1	51.4-278.23	None	Fullterm	17	40	Asian	parous	no_hx_PTD	AMA	N/A	prev aneup
+121	405.9	2	darkgreen	1	171-453	62	2	278.23-424.59	None	Fullterm	17	37	Black	parous	no_hx_PTD	AMA	N/A	CPC
+209	422.1	2	darkgreen	1	171-453	81	2	278.23-424.59	None	Fullterm	18	37	White	parous	no_hx_PTD	both AMA and pos matern serum test	N/A	None
+228	275.4	2	darkgreen	1	171-453	87	1	51.4-278.23	None	Fullterm	17	34	Asian	nulliparous	no_hx_PTD	both AMA and pos matern serum test	N/A	None
+229	299.5	2	darkgreen	1	171-453	88	1	51.4-278.23	None	Fullterm	18	30	White	parous	no_hx_PTD	pos matern serum test	N/A	None
+232	301.6	2	darkgreen	1	171-453	89	1	51.4-278.23	None	Fullterm	17	25	Black	parous	no_hx_PTD	pos matern serum test	N/A	None
+239	421.1	2	darkgreen	1	171-453	90	2	278.23-424.59	None	Fullterm	16	30	Asian	nulliparous	no_hx_PTD	pos matern serum test	N/A	None
+240	360	2	darkgreen	1	171-453	91	1	51.4-278.23	240 *dark yellow	Fullterm	17	31	White	nulliparous	no_hx_PTD	pos matern serum test	N/A	None
+259	432.2	2	darkgreen	1	171-453	96	2	278.23-424.59	None	Fullterm	18	35	Asian	nulliparous	no_hx_PTD	both AMA and pos matern serum test	N/A	None
+282	423.1	2	darkgreen	1	171-453	100	2	278.23-424.59	None	Fullterm	17	35	Asian	parous	no_hx_PTD	both AMA and pos matern serum test	N/A	None
+290	233.8	2	darkgreen	1	171-453	105	1	51.4-278.23	None	Fullterm	18	39	Black	parous	no_hx_PTD	AMA	N/A	None
+321	386.1	2	darkgreen	1	171-453	110	2	278.23-424.59	None	Fullterm	17	35	White	parous	hx_PTD	AMA	N/A	None
+349	389.9	2	darkgreen	1	171-453	116	2	278.23-424.59	None	Fullterm	20	33	Black	parous	no_hx_PTD	pos matern serum test	N/A	None
+356	399.6	2	darkgreen	1	171-453	119	2	278.23-424.59	None	Fullterm	17	37	Black	parous	no_hx_PTD	AMA	N/A	None
+357	414	2	darkgreen	1	171-453	120	2	278.23-424.59	None	Fullterm	18	33	White	parous	no_hx_PTD	pos matern serum test	N/A	None
+361	394.6	2	darkgreen	1	171-453	123	2	278.23-424.59	None	Fullterm	17	30	White	nulliparous	no_hx_PTD	abnormal ultrasound findings	N/A	anxiety
+375	320.7	2	darkgreen	1	171-453	124	1	51.4-278.23	None	Fullterm	16	34	White	parous	no_hx_PTD	AMA	N/A	prev aneup
+381	422.1	2	darkgreen	1	171-453	126	2	278.23-424.59	None	Fullterm	16	40	Asian	parous	no_hx_PTD	AMA	N/A	None
+384	332.5	2	darkgreen	1	171-453	128	1	51.4-278.23	None	Fullterm	22	31	White	parous	no_hx_PTD	pos matern serum test	N/A	None
+385	420.8	2	darkgreen	1	171-453	129	2	278.23-424.59	None	Fullterm	17	33	White	parous	no_hx_PTD	pos matern serum test	N/A	None
+407	414.5	2	darkgreen	1	171-453	139	2	278.23-424.59	None	Fullterm	16	36	Hispanic	parous	no_hx_PTD	AMA	N/A	None
+412	314.9	2	darkgreen	1	171-453	140	1	51.4-278.23	None	Fullterm	16	36	Black	nulliparous	no_hx_PTD	AMA	N/A	None
+423	299	2	darkgreen	1	171-453	146	1	51.4-278.23	None	Fullterm	17	38	Black	nulliparous	no_hx_PTD	both AMA and pos matern serum test	N/A	None
+428	388.4	2	darkgreen	1	171-453	148	2	278.23-424.59	None	Fullterm	17	31	Black	parous	no_hx_PTD	pos matern serum test	N/A	None
+432	439	2	darkgreen	1	171-453	151	2	278.23-424.59	None	Fullterm	17	32	White	parous	hx_PTD	pos matern serum test	N/A	None
+437	371.6	2	darkgreen	1	171-453	155	1	51.4-278.23	None	Fullterm	17	36	Hispanic	nulliparous	no_hx_PTD	AMA	N/A	None
+450	359.5	2	darkgreen	1	171-453	162	1	51.4-278.23	None	Preterm	17	39	White	parous	no_hx_PTD	AMA	spontaneous	PPRO 35w
+460	329.4	2	darkgreen	1	171-453	168	1	51.4-278.23	None	Fullterm	15	43	Hispanic	parous	hx_PTD	both AMA and pos matern serum test	N/A	None
+465	233.7	2	darkgreen	1	171-453	172	1	51.4-278.23	None	Fullterm	17	44	Black	nulliparous	no_hx_PTD	AMA	N/A	deletion, nl
+493	296.4	2	darkgreen	1	171-453	184	1	51.4-278.23	None	Fullterm	16	36	White	parous	no_hx_PTD	AMA	N/A	None
+506	310.8	2	darkgreen	1	171-453	190	1	51.4-278.23	None	Preterm	16	30	Asian	nulliparous	no_hx_PTD	pos matern serum test	spontaneous	35w
+507	451.7	2	darkgreen	1	171-453	191	2	278.23-424.59	None	Fullterm	16	42	Hispanic	nulliparous	no_hx_PTD	both AMA and pos matern serum test	N/A	None
+508	403.4	2	darkgreen	1	171-453	192	2	278.23-424.59	None	Fullterm	16	36	Black	parous	no_hx_PTD	AMA	N/A	None
+510	328.6	2	darkgreen	1	171-453	193	1	51.4-278.23	None	Fullterm	20	38	White	nulliparous	no_hx_PTD	both AMA and pos matern serum test	N/A	None
+511	266.3	2	darkgreen	1	171-453	194	1	51.4-278.23	None	Preterm	20	27	White	parous	no_hx_PTD	pos matern serum test	indicated	IUGR 35w
+538	410.7	2	darkgreen	1	171-453	204	2	278.23-424.59	None	Fullterm	16	35	White	parous	no_hx_PTD	pos matern serum test	N/A	None
+539	328.6	2	darkgreen	1	171-453	205	1	51.4-278.23	None	Preterm	16	28	White	nulliparous	no_hx_PTD	pos matern serum test	spontaneous	34w
+541	327.9	2	darkgreen	1	171-453	206	1	51.4-278.23	None	Fullterm	17	31	Hispanic	parous	hx_PTD	pos matern serum test	N/A	None
+573	321.2	2	darkgreen	1	171-453	215	1	51.4-278.23	None	Fullterm	16	41	Black	parous	no_hx_PTD	AMA	N/A	None
+580	382.9	2	darkgreen	1	171-453	216	1	51.4-278.23	None	Preterm	16	34	Hispanic	parous	no_hx_PTD	both AMA and pos matern serum test	indicated	IUFD, IUGR, HELLP at 28 w
+588	395.3	2	darkgreen	1	171-453	218	2	278.23-424.59	None	Fullterm	17	37	Asian	parous	no_hx_PTD	both AMA and pos matern serum test	N/A	None
+594	392.5	2	darkgreen	1	171-453	219	2	278.23-424.59	None	Fullterm	17	32	Black	parous	no_hx_PTD	pos matern serum test	N/A	exclude, T21
+605	451.7	2	darkgreen	1	171-453	222	2	278.23-424.59	None	Fullterm	17	40	Hispanic	parous	no_hx_PTD	AMA	N/A	None
+615	200.3	2	darkgreen	1	171-453	223	1	51.4-278.23	None	Fullterm	20	27	Black	parous	no_hx_PTD	pos matern serum test	N/A	None
+629	177.4	2	darkgreen	1	171-453	226	1	51.4-278.23	None	Fullterm	17	33	Hispanic	parous	no_hx_PTD	pos matern serum test	N/A	None
+647	431.1	2	darkgreen	1	171-453	228	2	278.23-424.59	None	Fullterm	21	30	White	nulliparous	no_hx_PTD	abnormal ultrasound findings	N/A	CPC + echo bowel
+650	370.4	2	darkgreen	1	171-453	229	1	51.4-278.23	None	Fullterm	16	21	Black	nulliparous	no_hx_PTD	pos matern serum test	N/A	None
+665	382.6	2	darkgreen	1	171-453	231	1	51.4-278.23	None	Fullterm	21	41	Black	parous	no_hx_PTD	AMA	N/A	exclude, T21
+1	726.7	3	chocolate4	2	453-735	1	5	615.05-743.12	None	Fullterm	16	37	Black	parous	no_hx_PTD	AMA	N/A	None
+9	522.4	3	chocolate4	2	453-735	4	3	424.59-519.49	None	Fullterm	19	23	White	parous	no_hx_PTD	pos matern serum test	N/A	None
+24	486.8	3	chocolate4	2	453-735	6	3	424.59-519.49	None	Fullterm	19	37	Black	nulliparous	no_hx_PTD	both AMA and pos matern serum test	N/A	None
+25	504.8	3	chocolate4	2	453-735	7	3	424.59-519.49	None	Fullterm	16	32	Hispanic	parous	no_hx_PTD	pos matern serum test	N/A	None
+26	549.3	3	chocolate4	2	453-735	8	3	424.59-519.49	None	Preterm	19	29	Asian	parous	hx_PTD	pos matern serum test	spontaneous	36w
+30	629.9	3	chocolate4	2	453-735	11	4	519.49-615.05	None	Fullterm	18	34	Hispanic	parous	no_hx_PTD	both AMA and pos matern serum test	N/A	None
+33	553.4	3	chocolate4	2	453-735	13	3	424.59-519.49	None	Fullterm	17	34	White	parous	no_hx_PTD	AMA	N/A	None
+38	486.6	3	chocolate4	2	453-735	15	3	424.59-519.49	None	Fullterm	17	36	White	parous	no_hx_PTD	AMA	N/A	prev aneupl
+41	651.8	3	chocolate4	2	453-735	17	4	519.49-615.05	None	Fullterm	16	39	Asian	nulliparous	no_hx_PTD	AMA	N/A	None
+46	535.6	3	chocolate4	2	453-735	21	3	424.59-519.49	None	Fullterm	17	39	Asian	nulliparous	no_hx_PTD	both AMA and pos matern serum test	N/A	None
+49	658.2	3	chocolate4	2	453-735	22	4	519.49-615.05	None	Fullterm	16	39	Asian	parous	no_hx_PTD	AMA	N/A	None
+50	503.8	3	chocolate4	2	453-735	23	3	424.59-519.49	None	Fullterm	16	38	White	nulliparous	no_hx_PTD	AMA	N/A	None
+58	475.1	3	chocolate4	2	453-735	26	2	278.23-424.59	None	Fullterm	17	27	White	parous	no_hx_PTD	pos matern serum test	N/A	None
+59	564.4	3	chocolate4	2	453-735	27	4	519.49-615.05	None	Fullterm	16	38	White	parous	no_hx_PTD	AMA	N/A	None
+61	647.2	3	chocolate4	2	453-735	28	4	519.49-615.05	None	Fullterm	16	32	White	nulliparous	no_hx_PTD	pos matern serum test	N/A	None
+75	556.1	3	chocolate4	2	453-735	32	4	519.49-615.05	None	Fullterm	17	37	Asian	parous	no_hx_PTD	AMA	N/A	None
+80	551.6	3	chocolate4	2	453-735	35	3	424.59-519.49	None	Preterm	16	31	Hispanic	parous	hx_PTD	pos matern serum test	indicated	PE 30w
+86	687.5	3	chocolate4	2	453-735	37	5	615.05-743.12	None	Fullterm	16	37	Asian	nulliparous	no_hx_PTD	AMA	N/A	None
+87	574.2	3	chocolate4	2	453-735	38	4	519.49-615.05	None	Preterm	21	29	White	parous	no_hx_PTD	abnormal ultrasound findings	spontaneous	36w
+88	607.1	3	chocolate4	2	453-735	39	4	519.49-615.05	None	Preterm	19	26	Hispanic	parous	no_hx_PTD	pos matern serum test	spontaneous	36w
+91	458.4	3	chocolate4	2	453-735	41	2	278.23-424.59	None	Preterm	20	29	White	nulliparous	no_hx_PTD	pos matern serum test	spontaneous	36w
+92	701.1	3	chocolate4	2	453-735	42	5	615.05-743.12	None	Fullterm	17	41	White	parous	no_hx_PTD	AMA	N/A	None
+96	669	3	chocolate4	2	453-735	44	5	615.05-743.12	None	Fullterm	17	37	White	parous	no_hx_PTD	AMA	N/A	None
+98	623.5	3	chocolate4	2	453-735	46	4	519.49-615.05	None	Fullterm	25	30	Black	parous	no_hx_PTD	pos matern serum test	N/A	None
+115	696.7	3	chocolate4	2	453-735	56	5	615.05-743.12	None	Fullterm	17	30	White	parous	no_hx_PTD	pos matern serum test	N/A	None
+116	534.2	3	chocolate4	2	453-735	57	3	424.59-519.49	None	Fullterm	18	33	Black	parous	no_hx_PTD	pos matern serum test	N/A	None
+118	610.5	3	chocolate4	2	453-735	59	4	519.49-615.05	None	Fullterm	16	39	Hispanic	parous	no_hx_PTD	AMA	N/A	None
+119	514.1	3	chocolate4	2	453-735	60	3	424.59-519.49	None	Fullterm	16	35	Black	parous	no_hx_PTD	AMA	N/A	None
+122	595.6	3	chocolate4	2	453-735	63	4	519.49-615.05	None	Fullterm	16	32	White	parous	no_hx_PTD	pos matern serum test	N/A	None
+138	511.8	3	chocolate4	2	453-735	66	3	424.59-519.49	None	Fullterm	17	36	Black	parous	no_hx_PTD	AMA	N/A	None
+149	615.1	3	chocolate4	2	453-735	68	4	519.49-615.05	None	Fullterm	16	35	White	nulliparous	no_hx_PTD	AMA	N/A	None
+162	690.2	3	chocolate4	2	453-735	70	5	615.05-743.12	None	Fullterm	19	33	Hispanic	parous	no_hx_PTD	pos matern serum test	N/A	None
+166	536.9	3	chocolate4	2	453-735	72	3	424.59-519.49	None	Fullterm	19	24	White	nulliparous	no_hx_PTD	abnormal ultrasound findings	N/A	CPC, exclude, T18
+168	605	3	chocolate4	2	453-735	73	4	519.49-615.05	None	Fullterm	16	41	White	parous	no_hx_PTD	AMA	N/A	None
+172	486.2	3	chocolate4	2	453-735	74	3	424.59-519.49	None	Fullterm	16	35	Asian	parous	no_hx_PTD	AMA	N/A	None
+184	655	3	chocolate4	2	453-735	75	4	519.49-615.05	None	Fullterm	17	27	Black	nulliparous	no_hx_PTD	pos matern serum test	N/A	None
+192	640	3	chocolate4	2	453-735	76	4	519.49-615.05	None	Fullterm	18	36	Asian	parous	no_hx_PTD	both AMA and pos matern serum test	N/A	None
+198	607.3	3	chocolate4	2	453-735	78	4	519.49-615.05	None	Fullterm	19	38	Asian	parous	no_hx_PTD	both AMA and pos matern serum test	N/A	mosaic
+202	562.5	3	chocolate4	2	453-735	79	4	519.49-615.05	None	Fullterm	17	37	Asian	nulliparous	no_hx_PTD	both AMA and pos matern serum test	N/A	None
+203	556.6	3	chocolate4	2	453-735	80	4	519.49-615.05	None	Fullterm	19	29	Hispanic	parous	no_hx_PTD	abnormal ultrasound findings	N/A	paternity test
+212	572.7	3	chocolate4	2	453-735	83	4	519.49-615.05	None	Fullterm	20	29	Hispanic	parous	no_hx_PTD	abnormal ultrasound findings	N/A	CPC
+218	543.6	3	chocolate4	2	453-735	84	3	424.59-519.49	None	Fullterm	18	42	Asian	parous	no_hx_PTD	AMA	N/A	None
+220	543.6	3	chocolate4	2	453-735	85	3	424.59-519.49	None	Fullterm	15	44	White	parous	no_hx_PTD	AMA	N/A	None
+221	707.6	3	chocolate4	2	453-735	86	5	615.05-743.12	None	Fullterm	17	37	White	nulliparous	no_hx_PTD	AMA	N/A	None
+243	721.4	3	chocolate4	2	453-735	93	5	615.05-743.12	None	Fullterm	19	34	Asian	parous	no_hx_PTD	pos matern serum test	N/A	None
+246	655.2	3	chocolate4	2	453-735	94	4	519.49-615.05	None	Fullterm	16	39	Asian	parous	hx_PTD	AMA	N/A	None
+260	550.5	3	chocolate4	2	453-735	97	3	424.59-519.49	None	Fullterm	17	34	Asian	parous	no_hx_PTD	pos matern serum test	N/A	None
+261	619.9	3	chocolate4	2	453-735	98	4	519.49-615.05	261 *dark yellow	Fullterm	18	25	Hispanic	parous	no_hx_PTD	pos matern serum test	N/A	None
+283	573.7	3	chocolate4	2	453-735	101	4	519.49-615.05	None	Fullterm	21	39	Hispanic	nulliparous	no_hx_PTD	AMA	N/A	None
+285	593.5	3	chocolate4	2	453-735	102	4	519.49-615.05	None	Fullterm	17	24	Black	parous	no_hx_PTD	pos matern serum test	N/A	None
+288	493.8	3	chocolate4	2	453-735	104	3	424.59-519.49	None	Fullterm	16	34	White	nulliparous	no_hx_PTD	AMA	N/A	echog focus
+291	689.2	3	chocolate4	2	453-735	106	5	615.05-743.12	None	Fullterm	16	39	Asian	nulliparous	no_hx_PTD	AMA	N/A	None
+292	652.9	3	chocolate4	2	453-735	107	4	519.49-615.05	None	lost to FU	18	25	Hispanic	parous	no_hx_PTD	pos matern serum test	N/A	exclude, lost to FU
+295	568	3	chocolate4	2	453-735	108	4	519.49-615.05	None	Fullterm	18	21	White	nulliparous	no_hx_PTD	pos matern serum test	N/A	None
+326	477	3	chocolate4	2	453-735	111	3	424.59-519.49	None	Preterm	17	34	Asian	parous	no_hx_PTD	pos matern serum test	spontaneous	36w
+330	661.9	3	chocolate4	2	453-735	112	5	615.05-743.12	330 dark yellow	Fullterm	18	20	Hispanic	parous	no_hx_PTD	pos matern serum test	N/A	None
+333	533.1	3	chocolate4	2	453-735	113	3	424.59-519.49	None	Fullterm	16	36	Asian	parous	no_hx_PTD	AMA	N/A	None
+342	711.8	3	chocolate4	2	453-735	114	5	615.05-743.12	None	Fullterm	16	27	Hispanic	parous	hx_PTD	abnormal ultrasound findings	N/A	prev NTD
+353	664.9	3	chocolate4	2	453-735	117	5	615.05-743.12	353 dark yellow	Fullterm	16	37	Hispanic	nulliparous	no_hx_PTD	AMA	N/A	None
+355	643.5	3	chocolate4	2	453-735	118	4	519.49-615.05	None	Fullterm	17	30	White	parous	no_hx_PTD	pos matern serum test	N/A	CPC
+359	532.3	3	chocolate4	2	453-735	121	3	424.59-519.49	None	Fullterm	15	34	White	parous	no_hx_PTD	pos matern serum test	N/A	None
+360	512.4	3	chocolate4	2	453-735	122	3	424.59-519.49	None	Fullterm	16	36	Asian	parous	no_hx_PTD	AMA	N/A	exclude, lost to FU
+376	579.6	3	chocolate4	2	453-735	125	4	519.49-615.05	None	Fullterm	18	35	Asian	parous	hx_PTD	AMA	N/A	None
+392	698.3	3	chocolate4	2	453-735	131	5	615.05-743.12	None	Fullterm	16	42	White	parous	no_hx_PTD	AMA	N/A	None
+395	539.3	3	chocolate4	2	453-735	132	3	424.59-519.49	None	Fullterm	17	33	Black	parous	no_hx_PTD	pos matern serum test	N/A	None
+396	653.6	3	chocolate4	2	453-735	133	4	519.49-615.05	None	Fullterm	17	26	Hispanic	nulliparous	no_hx_PTD	pos matern serum test	N/A	None
+398	551.5	3	chocolate4	2	453-735	135	3	424.59-519.49	None	Fullterm	16	35	White	nulliparous	no_hx_PTD	AMA	N/A	None
+400	511.1	3	chocolate4	2	453-735	136	3	424.59-519.49	None	Fullterm	16	40	Black	parous	no_hx_PTD	AMA	N/A	None
+402	675.1	3	chocolate4	2	453-735	137	5	615.05-743.12	None	Preterm	17	42	Hispanic	parous	no_hx_PTD	both AMA and pos matern serum test	indicated	IUFD 33w
+406	540.2	3	chocolate4	2	453-735	138	3	424.59-519.49	None	Fullterm	17	36	White	nulliparous	no_hx_PTD	both AMA and pos matern serum test	N/A	echo bowe
+414	459.6	3	chocolate4	2	453-735	142	2	278.23-424.59	None	Fullterm	18	35	Asian	parous	no_hx_PTD	both AMA and pos matern serum test	N/A	exclude, T21
+419	649.1	3	chocolate4	2	453-735	143	4	519.49-615.05	None	Fullterm	16	36	Hispanic	nulliparous	no_hx_PTD	AMA	N/A	None
+420	492.3	3	chocolate4	2	453-735	144	3	424.59-519.49	None	Fullterm	16	36	White	parous	no_hx_PTD	AMA	N/A	None
+425	510.8	3	chocolate4	2	453-735	147	3	424.59-519.49	None	Fullterm	17	34	Hispanic	parous	no_hx_PTD	pos matern serum test	N/A	mosaicism
+430	536.4	3	chocolate4	2	453-735	150	3	424.59-519.49	None	Fullterm	17	34	White	parous	no_hx_PTD	both AMA and pos matern serum test	N/A	None
+434	462.9	3	chocolate4	2	453-735	152	2	278.23-424.59	None	Fullterm	20	21	Black	nulliparous	no_hx_PTD	pos matern serum test	N/A	None
+435	673.1	3	chocolate4	2	453-735	153	5	615.05-743.12	None	Fullterm	16	36	Hispanic	parous	no_hx_PTD	AMA	N/A	None
+436	641.8	3	chocolate4	2	453-735	154	4	519.49-615.05	None	Fullterm	16	36	Hispanic	parous	no_hx_PTD	AMA	N/A	None
+445	618.5	3	chocolate4	2	453-735	159	4	519.49-615.05	None	Fullterm	17	37	Asian	nulliparous	no_hx_PTD	both AMA and pos matern serum test	N/A	None
+446	735.1	3	chocolate4	2	453-735	160	5	615.05-743.12	None	Fullterm	16	38	Hispanic	parous	no_hx_PTD	AMA	N/A	None
+451	626.6	3	chocolate4	2	453-735	163	4	519.49-615.05	None	Fullterm	18	38	Asian	parous	no_hx_PTD	both AMA and pos matern serum test	N/A	None
+458	629.5	3	chocolate4	2	453-735	166	4	519.49-615.05	None	Fullterm	17	38	White	nulliparous	no_hx_PTD	AMA	N/A	None
+459	476.9	3	chocolate4	2	453-735	167	3	424.59-519.49	None	Fullterm	21	19	Hispanic	nulliparous	no_hx_PTD	abnormal ultrasound findings	N/A	pyelect
+463	491	3	chocolate4	2	453-735	171	3	424.59-519.49	None	Fullterm	18	41	Hispanic	parous	no_hx_PTD	AMA	N/A	None
+469	553.5	3	chocolate4	2	453-735	176	3	424.59-519.49	None	Fullterm	17	39	White	parous	no_hx_PTD	AMA	N/A	None
+472	699.4	3	chocolate4	2	453-735	177	5	615.05-743.12	None	Fullterm	19	30	Asian	parous	no_hx_PTD	pos matern serum test	N/A	None
+475	655.3	3	chocolate4	2	453-735	180	4	519.49-615.05	None	Fullterm	16	40	Asian	parous	no_hx_PTD	AMA	N/A	None
+480	627.4	3	chocolate4	2	453-735	181	4	519.49-615.05	None	Fullterm	21	31	Hispanic	parous	no_hx_PTD	pos matern serum test	N/A	None
+482	468.8	3	chocolate4	2	453-735	182	2	278.23-424.59	None	Fullterm	18	39	Black	parous	hx_PTD	AMA	N/A	None
+492	658.9	3	chocolate4	2	453-735	183	5	615.05-743.12	None	Fullterm	16	35	Asian	parous	no_hx_PTD	AMA	N/A	None
+497	508.2	3	chocolate4	2	453-735	186	3	424.59-519.49	None	Fullterm	19	35	White	parous	no_hx_PTD	AMA	N/A	None
+498	547.5	3	chocolate4	2	453-735	187	3	424.59-519.49	None	Fullterm	19	38	White	parous	no_hx_PTD	both AMA and pos matern serum test	N/A	None
+512	481.2	3	chocolate4	2	453-735	195	3	424.59-519.49	None	Fullterm	17	32	White	parous	no_hx_PTD	pos matern serum test	N/A	None
+515	732.1	3	chocolate4	2	453-735	196	5	615.05-743.12	None	Fullterm	17	42	White	nulliparous	no_hx_PTD	AMA	N/A	None
+518	619.8	3	chocolate4	2	453-735	197	4	519.49-615.05	None	Fullterm	20	29	Hispanic	parous	no_hx_PTD	pos matern serum test	N/A	None
+524	517.7	3	chocolate4	2	453-735	199	3	424.59-519.49	None	Fullterm	21	32	Black	parous	no_hx_PTD	pos matern serum test	N/A	None
+530	508.3	3	chocolate4	2	453-735	201	3	424.59-519.49	None	Fullterm	16	36	Asian	parous	no_hx_PTD	AMA	N/A	None
+545	687.5	3	chocolate4	2	453-735	208	5	615.05-743.12	None	Fullterm	16	40	Asian	nulliparous	no_hx_PTD	AMA	N/A	None
+547	510.9	3	chocolate4	2	453-735	210	3	424.59-519.49	None	Fullterm	18	22	Hispanic	parous	no_hx_PTD	abnormal ultrasound findings	N/A	prev aneup
+555	458.4	3	chocolate4	2	453-735	211	2	278.23-424.59	None	Fullterm	16	44	Asian	parous	no_hx_PTD	AMA	N/A	None
+582	625.4	3	chocolate4	2	453-735	217	4	519.49-615.05	None	Fullterm	18	35	White	parous	no_hx_PTD	both AMA and pos matern serum test	N/A	None
+595	567.6	3	chocolate4	2	453-735	220	4	519.49-615.05	None	Fullterm	18	26	White	parous	no_hx_PTD	pos matern serum test	N/A	None
+621	698.1	3	chocolate4	2	453-735	224	5	615.05-743.12	None	Fullterm	16	36	Asian	parous	no_hx_PTD	AMA	N/A	None
+660	653.6	3	chocolate4	2	453-735	230	4	519.49-615.05	None	Fullterm	17	36	Hispanic	parous	no_hx_PTD	AMA	N/A	None
+37	886.1	4	darkkhaki	2	735-1018	14	6	743.12-1104.98	None	Fullterm	19	28	Asian	parous	no_hx_PTD	pos matern serum test	N/A	None
+51	751	4	darkkhaki	2	735-1018	24	5	615.05-743.12	None	Fullterm	18	25	White	parous	hx_PTD	pos matern serum test	N/A	None
+62	771.4	4	darkkhaki	2	735-1018	29	5	615.05-743.12	None	Fullterm	17	32	Asian	nulliparous	no_hx_PTD	pos matern serum test	N/A	None
+63	796	4	darkkhaki	2	735-1018	30	5	615.05-743.12	None	Preterm	26	35	Black	parous	hx_PTD	AMA	spontaneous	35w
+67	794.4	4	darkkhaki	2	735-1018	31	5	615.05-743.12	None	Fullterm	16	26	Asian	parous	no_hx_PTD	pos matern serum test	N/A	None
+77	887.3	4	darkkhaki	2	735-1018	33	6	743.12-1104.98	None	Fullterm	19	37	Black	parous	no_hx_PTD	AMA	N/A	None
+81	891.1	4	darkkhaki	2	735-1018	36	6	743.12-1104.98	None	Fullterm	21	38	Asian	parous	no_hx_PTD	AMA	N/A	None
+90	942	4	darkkhaki	2	735-1018	40	6	743.12-1104.98	None	Fullterm	24	40	Hispanic	parous	no_hx_PTD	AMA	N/A	None
+95	1018	4	darkkhaki	2	735-1018	43	6	743.12-1104.98	None	Fullterm	18	25	Hispanic	parous	no_hx_PTD	pos matern serum test	N/A	None
+97	986.3	4	darkkhaki	2	735-1018	45	6	743.12-1104.98	None	Fullterm	20	24	White	parous	no_hx_PTD	pos matern serum test	N/A	None
+106	767.2	4	darkkhaki	2	735-1018	51	5	615.05-743.12	None	Fullterm	19	30	Hispanic	parous	no_hx_PTD	pos matern serum test	N/A	None
+124	1003	4	darkkhaki	2	735-1018	65	6	743.12-1104.98	None	Fullterm	21	35	White	parous	no_hx_PTD	AMA	N/A	None
+144	956.3	4	darkkhaki	2	735-1018	67	6	743.12-1104.98	None	Fullterm	16	38	White	nulliparous	no_hx_PTD	AMA	N/A	None
+195	928.6	4	darkkhaki	2	735-1018	77	6	743.12-1104.98	None	Fullterm	16	30	Hispanic	parous	no_hx_PTD	pos matern serum test	N/A	None
+271	775.4	4	darkkhaki	2	735-1018	99	5	615.05-743.12	None	Fullterm	17	26	Hispanic	parous	no_hx_PTD	abnormal ultrasound findings	N/A	prev aneup
+383	833.8	4	darkkhaki	2	735-1018	127	5	615.05-743.12	None	Preterm	22	25	White	parous	no_hx_PTD	pos matern serum test	spontaneous	34w
+391	905.5	4	darkkhaki	2	735-1018	130	6	743.12-1104.98	None	Fullterm	16	35	Black	nulliparous	no_hx_PTD	AMA	N/A	None
+397	1014.7	4	darkkhaki	2	735-1018	134	6	743.12-1104.98	None	Fullterm	18	26	Black	nulliparous	no_hx_PTD	pos matern serum test	N/A	None
+413	769.2	4	darkkhaki	2	735-1018	141	5	615.05-743.12	None	Fullterm	20	20	Hispanic	nulliparous	no_hx_PTD	pos matern serum test	N/A	None
+421	738.3	4	darkkhaki	2	735-1018	145	5	615.05-743.12	None	Fullterm	17	37	Asian	parous	no_hx_PTD	AMA	N/A	None
+429	950.5	4	darkkhaki	2	735-1018	149	6	743.12-1104.98	None	Fullterm	16	43	Hispanic	parous	no_hx_PTD	both AMA and pos matern serum test	N/A	None
+444	807.3	4	darkkhaki	2	735-1018	158	5	615.05-743.12	444 very dark	Fullterm	16	29	Black	parous	hx_PTD	abnormal ultrasound findings	N/A	SS testing
+447	783.1	4	darkkhaki	2	735-1018	161	5	615.05-743.12	None	Fullterm	17	36	Asian	parous	no_hx_PTD	both AMA and pos matern serum test	N/A	None
+452	996.2	4	darkkhaki	2	735-1018	164	6	743.12-1104.98	None	Preterm	16	34	Asian	parous	no_hx_PTD	AMA	spontaneous	PPRO 35w
+455	852	4	darkkhaki	2	735-1018	165	5	615.05-743.12	None	Fullterm	18	37	Asian	parous	no_hx_PTD	AMA	N/A	None
+461	1008.5	4	darkkhaki	2	735-1018	169	6	743.12-1104.98	None	Preterm	15	31	Asian	parous	no_hx_PTD	pos matern serum test	spontaneous	PPRO 34w
+466	919	4	darkkhaki	2	735-1018	173	6	743.12-1104.98	None	Fullterm	15	38	Asian	nulliparous	no_hx_PTD	AMA	N/A	None
+467	765.5	4	darkkhaki	2	735-1018	174	5	615.05-743.12	None	Fullterm	17	38	Asian	parous	no_hx_PTD	both AMA and pos matern serum test	N/A	None
+473	838	4	darkkhaki	2	735-1018	178	5	615.05-743.12	None	Fullterm	18	31	Asian	nulliparous	no_hx_PTD	pos matern serum test	N/A	None
+474	956.9	4	darkkhaki	2	735-1018	179	6	743.12-1104.98	None	Fullterm	23	27	Asian	nulliparous	no_hx_PTD	abnormal ultrasound findings	N/A	echog card foc
+494	843.7	4	darkkhaki	2	735-1018	185	5	615.05-743.12	None	Fullterm	16	31	Hispanic	parous	no_hx_PTD	abnormal ultrasound findings	N/A	prior aneupl
+500	996	4	darkkhaki	2	735-1018	188	6	743.12-1104.98	None	Fullterm	22	31	Hispanic	parous	hx_PTD	pos matern serum test	N/A	exclude, T21
+503	919.1	4	darkkhaki	2	735-1018	189	6	743.12-1104.98	None	Fullterm	19	31	Asian	parous	no_hx_PTD	pos matern serum test	N/A	None
+528	882.3	4	darkkhaki	2	735-1018	200	6	743.12-1104.98	None	Fullterm	16	34	Asian	nulliparous	no_hx_PTD	AMA	N/A	None
+531	919.5	4	darkkhaki	2	735-1018	202	6	743.12-1104.98	None	Preterm	19	29	Black	parous	hx_PTD	pos matern serum test	indicated	uncontrolled DM 36w
+535	804.5	4	darkkhaki	2	735-1018	203	5	615.05-743.12	None	Fullterm	16	36	Black	nulliparous	no_hx_PTD	AMA	N/A	None
+559	830.3	4	darkkhaki	2	735-1018	212	5	615.05-743.12	None	Fullterm	17	36	Asian	parous	no_hx_PTD	AMA	N/A	exclude, abn mosaic 47XX+8
+562	874.8	4	darkkhaki	2	735-1018	213	5	615.05-743.12	562 very dark	Fullterm	16	36	Asian	parous	no_hx_PTD	AMA	N/A	None
+28	1126.1	5	orchid	3	1018-1300	10	6	743.12-1104.98	None	Fullterm	17	36	Hispanic	nulliparous	no_hx_PTD	AMA	N/A	None
+99	1264.4	5	orchid	3	1018-1300	47	6	743.12-1104.98	None	Fullterm	16	38	Asian	nulliparous	no_hx_PTD	AMA	N/A	None
+123	1189.6	5	orchid	3	1018-1300	64	6	743.12-1104.98	None	lost to FU	23	39	Black	parous	no_hx_PTD	AMA	N/A	exclude , DM, lost to FU
+159	1290.1	5	orchid	3	1018-1300	69	6	743.12-1104.98	None	Fullterm	17	36	Asian	parous	no_hx_PTD	both AMA and pos matern serum test	N/A	None
+164	1247.9	5	orchid	3	1018-1300	71	6	743.12-1104.98	None	Preterm	20	34	Hispanic	parous	no_hx_PTD	AMA	spontaneous	35w
+241	1279.2	5	orchid	3	1018-1300	92	6	743.12-1104.98	None	Fullterm	16	39	Asian	parous	no_hx_PTD	AMA	N/A	None
+287	1069.5	5	orchid	3	1018-1300	103	6	743.12-1104.98	None	Fullterm	20	20	Black	parous	no_hx_PTD	pos matern serum test	N/A	None
+306	1120	5	orchid	3	1018-1300	109	6	743.12-1104.98	306 dark yellow	Fullterm	17	23	Hispanic	parous	hx_PTD	pos matern serum test	N/A	None
+343	1098.7	5	orchid	3	1018-1300	115	6	743.12-1104.98	343 dark yellow	Fullterm	18	41	Hispanic	nulliparous	no_hx_PTD	both AMA and pos matern serum test	N/A	None
+441	1089.6	5	orchid	3	1018-1300	156	6	743.12-1104.98	None	Fullterm	18	37	Asian	parous	no_hx_PTD	AMA	N/A	None
+468	1041.4	5	orchid	3	1018-1300	175	6	743.12-1104.98	None	Fullterm	20	24	Black	parous	no_hx_PTD	pos matern serum test	N/A	None
+544	1140.2	5	orchid	3	1018-1300	207	6	743.12-1104.98	None	Fullterm	21	36	Black	parous	no_hx_PTD	AMA	N/A	None
+546	1036.2	5	orchid	3	1018-1300	209	6	743.12-1104.98	None	Fullterm	18	34	White	parous	no_hx_PTD	AMA	N/A	None
+113	1660.1	6	lightgreen	3	1300-1865	54	6	743.12-1104.98	None	Fullterm	16	30	White	nulliparous	no_hx_PTD	pos matern serum test	N/A	None
+114	1665	6	lightgreen	3	1300-1865	55	6	743.12-1104.98	None	Preterm	21	18	Hispanic	nulliparous	no_hx_PTD	pos matern serum test	spontaneous	36w
+253	1865.1	6	lightgreen	3	1300-1865	95	6	743.12-1104.98	253 *25uL dark yellow	Fullterm	20	31	Black	parous	hx_PTD	pos matern serum test	N/A	None
+443	1462.3	6	lightgreen	3	1300-1865	157	6	743.12-1104.98	None	Fullterm	16	43	White	nulliparous	no_hx_PTD	AMA	N/A	None
+571	1377.1	6	lightgreen	3	1300-1865	214	6	743.12-1104.98	None	Fullterm	21	33	Hispanic	nulliparous	no_hx_PTD	pos matern serum test	N/A	None

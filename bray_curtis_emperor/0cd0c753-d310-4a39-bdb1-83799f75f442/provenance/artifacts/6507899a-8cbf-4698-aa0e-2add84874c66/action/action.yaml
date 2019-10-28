@@ -1,0 +1,181 @@
+execution:
+    uuid: 86a12ad1-c87a-46f0-bb2d-532caa5bbd44
+    runtime:
+        start: 2019-08-04T17:35:56.013385-05:00
+        end: 2019-08-04T17:35:56.072158-05:00
+        duration: 58773 microseconds
+
+action:
+    type: method
+    plugin: !ref 'environment:plugins:diversity'
+    action: beta
+    inputs:
+    -   table: f43604b9-8ec4-4bd4-87ed-9dd0af5b2f6d
+    parameters:
+    -   metric: braycurtis
+    -   pseudocount: 1
+    -   n_jobs: 1
+    output-name: distance_matrix
+    citations:
+    - !cite 'action|diversity:2019.7.0|method:beta|0'
+
+transformers:
+    inputs:
+        table:
+        -   from: BIOMV210DirFmt
+            to: biom.table:Table
+            plugin: !ref 'environment:plugins:types'
+            citations:
+            - !cite 'view|types:2019.7.0|BIOMV210DirFmt|0'
+            - !cite 'view|types:2019.7.0|biom.table:Table|0'
+    output:
+    -   from: skbio.stats.distance._base:DistanceMatrix
+        to: DistanceMatrixDirectoryFormat
+        plugin: !ref 'environment:plugins:types'
+
+environment:
+    platform: linux-x86_64
+    python: |-
+        3.6.7 | packaged by conda-forge | (default, Jul  2 2019, 02:18:42)
+        [GCC 7.3.0]
+    framework:
+        version: 2019.7.0
+        website: https://qiime2.org
+        citations:
+        - !cite 'framework|qiime2:2019.7.0|0'
+    plugins:
+        types:
+            version: 2019.7.0
+            website: https://github.com/qiime2/q2-types
+        diversity:
+            version: 2019.7.0
+            website: https://github.com/qiime2/q2-diversity
+    python-packages:
+        zipp: 0.5.1
+        xopen: 0.7.3
+        widgetsnbextension: 3.5.1
+        wheel: 0.33.4
+        webencodings: 0.5.1
+        wcwidth: 0.1.7
+        urllib3: 1.25.3
+        unifrac: 0.10.0
+        tzlocal: 2.0.0
+        traitlets: 4.3.2
+        tornado: 6.0.3
+        testpath: 0.4.2
+        terminado: 0.8.2
+        statsmodels: 0.10.1
+        six: 1.12.0
+        setuptools: 41.0.1
+        Send2Trash: 1.5.0
+        seaborn: 0.9.0
+        scipy: 1.3.0
+        scikit-learn: 0.21.2
+        scikit-bio: 0.5.5
+        requests: 2.22.0
+        qiime2: 2019.7.0
+        q2templates: 2019.7.0
+        q2cli: 2019.7.0
+        q2-vsearch: 2019.7.0
+        q2-types: 2019.7.0
+        q2-taxa: 2019.7.0
+        q2-sample-classifier: 2019.7.1
+        q2-quality-filter: 2019.7.0
+        q2-quality-control: 2019.7.0
+        q2-phylogeny: 2019.7.0
+        q2-metadata: 2019.7.0
+        q2-longitudinal: 2019.7.0
+        q2-gneiss: 2019.7.0
+        q2-fragment-insertion: 2019.7.0
+        q2-feature-table: 2019.7.0
+        q2-feature-classifier: 2019.7.0
+        q2-emperor: 2019.7.0
+        q2-diversity: 2019.7.0
+        q2-demux: 2019.7.0
+        q2-deblur: 2019.7.0
+        q2-dada2: 2019.7.0
+        q2-cutadapt: 2019.7.0
+        q2-composition: 2019.7.0
+        q2-alignment: 2019.7.0
+        pyzmq: 18.0.2
+        PyYAML: 5.1.2
+        pytz: '2019.2'
+        python-dateutil: 2.8.0
+        pytest: 5.0.1
+        PySocks: 1.7.0
+        pyrsistent: 0.15.4
+        pyparsing: 2.3.0
+        pyOpenSSL: 19.0.0
+        Pygments: 2.4.2
+        pycparser: '2.19'
+        py: 1.8.0
+        ptyprocess: 0.6.0
+        psutil: 5.6.3
+        prompt-toolkit: 2.0.9
+        prometheus-client: 0.7.1
+        pluggy: 0.12.0
+        pip: 19.2.1
+        Pillow: 6.0.0
+        pickleshare: 0.7.5
+        pexpect: 4.7.0
+        patsy: 0.5.1
+        parso: 0.5.1
+        pandocfilters: 1.4.2
+        pandas: 0.24.2
+        packaging: '19.0'
+        olefile: '0.46'
+        numpy: 1.17.0
+        notebook: 6.0.0
+        nose: 1.3.7
+        networkx: '2.3'
+        nbformat: 4.4.0
+        nbconvert: 5.5.0
+        natsort: 6.0.0
+        msgpack: 0.6.1
+        more-itertools: 7.2.0
+        mistune: 0.8.4
+        matplotlib: 3.1.1
+        MarkupSafe: 1.1.1
+        lockfile: 0.12.2
+        kiwisolver: 1.1.0
+        jupyter-core: 4.4.0
+        jupyter-client: 5.3.1
+        jsonschema: 3.0.1
+        joblib: 0.13.2
+        Jinja2: 2.10.1
+        jedi: 0.14.1
+        ipywidgets: 7.5.1
+        ipython: 7.7.0
+        ipython-genutils: 0.2.0
+        ipykernel: 5.1.1
+        importlib-metadata: '0.18'
+        ijson: '2.3'
+        idna: '2.8'
+        hdmedians: '0.13'
+        h5py: 2.9.0
+        gneiss: 0.4.5
+        future: 0.17.1
+        fastcluster: 1.1.25
+        entrypoints: '0.3'
+        emperor: 1.0.0b19
+        dnaio: '0.3'
+        defusedxml: 0.5.0
+        decorator: 4.4.0
+        deblur: 1.1.0
+        cycler: 0.10.0
+        cutadapt: '2.4'
+        cryptography: '2.7'
+        Click: '7.0'
+        chardet: 3.0.4
+        cffi: 1.12.3
+        certifi: 2019.6.16
+        CacheControl: 0.12.5
+        bz2file: '0.98'
+        bokeh: 1.3.1
+        bleach: 3.1.0
+        biom-format: 2.1.7
+        bibtexparser: 1.1.0
+        backcall: 0.1.0
+        attrs: 19.1.0
+        atomicwrites: 1.3.0
+        asn1crypto: 0.24.0
